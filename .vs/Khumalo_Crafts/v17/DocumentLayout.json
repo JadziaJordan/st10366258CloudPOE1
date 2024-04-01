@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\home\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\home\\about_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\views\\home\\homes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:views\\home\\homes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|c:\\users\\jadzia jordan\\source\\repos\\khumalo_crafts\\wwwroot\\images\\contact\\contact_us.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{9092EE67-2A5A-4396-B0B2-46E1E2624993}|Khumalo_Crafts.csproj|solutionrelative:wwwroot\\images\\contact\\contact_us.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About_Us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\About_Us.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About_Us.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\About_Us.cshtml",
+              "RelativeToolTip": "Views\\Home\\About_Us.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T19:07:44.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact_Us.jpg",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\wwwroot\\Images\\Contact\\Contact_Us.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\Images\\Contact\\Contact_Us.jpg",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\wwwroot\\Images\\Contact\\Contact_Us.jpg",
+              "RelativeToolTip": "wwwroot\\Images\\Contact\\Contact_Us.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-31T15:21:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Homes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Homes.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Homes.cshtml",
+              "RelativeToolTip": "Views\\Home\\Homes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T15:53:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:47:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:47:10.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T12:45:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:44:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Work.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Work.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Work.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Home\\Work.cshtml",
+              "RelativeToolTip": "Views\\Home\\Work.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:47:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T12:45:25.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jadzia Jordan\\source\\repos\\Khumalo_Crafts\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:43:43.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
